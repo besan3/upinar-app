@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993279460438",
+    "project_id": "upinar-e6831",
+    "storage_bucket": "upinar-e6831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993279460438:android:594c319905a74bf87f27f7",
+        "android_client_info": {
+          "package_name": "com.upinarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993279460438-sm3hh3tq0a6qtk6ali1qt1pnkvkmlo80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5Q8cWbE9_ZJGMP_Mq9iD8Rbmms0T3SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993279460438-sm3hh3tq0a6qtk6ali1qt1pnkvkmlo80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
